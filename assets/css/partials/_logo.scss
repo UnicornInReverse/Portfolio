@@ -1,0 +1,18 @@
+.logo {
+  h2 {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    border: 2px solid #fff;
+    display: inline-block;
+    padding: 8px 15px;
+    margin: 25px 0;
+    transition: 0.5s border-color ease ;
+    &:hover {
+      border-color: $color-primary-1;
+    }
+  }
+  &.center {
+    text-align: center;
+  }
+}
