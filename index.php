@@ -8,7 +8,7 @@
 </head>
 <body>
     <!-- Header -->
-    <header role="banner">
+    <header role="banner" id="home">
         <nav role="navigation">
             <div class="container">
                 <!-- Logo -->
@@ -23,7 +23,7 @@
                 <div class="navbar-inner">
                     <ul role="menu">
                         <li role="menuitem">
-                            <a href="#">Home</a>
+                            <a href="#home">Home</a>
                         </li>
                         <li role="menuitem">
                             <a href="#about">Over mij</a>
@@ -47,7 +47,7 @@
                 <h1>"Well begun is half done"</h1>
             </div>
         </div>
-        <a href="#" class="nextSection">
+        <a href="#about" class="nextSection easeScroll">
             <i class="fa fa-angle-down"></i>
         </a>
     </header>
@@ -131,5 +131,9 @@
         </div>
     </footer>
     <!-- / Contact section -->
+
+    <!-- Scripts -->
+    <script src="assets/plugins/jquery/jquery.min.js"></script>
+    <script src="assets/js/pageload.js"></script>
 </body>
 </html>
