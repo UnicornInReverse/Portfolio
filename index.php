@@ -7,14 +7,19 @@
     <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.min.css">
 </head>
 <body>
+    <!-- Header -->
     <header role="banner">
         <nav role="navigation">
             <div class="container">
+                <!-- Logo -->
                 <div class="logo">
                     <a href="#">
                         <h2>Rick van der Burg</h2>
                     </a>
                 </div>
+                <!-- / Logo -->
+
+                <!-- Navigation bar -->
                 <div class="navbar-inner">
                     <ul role="menu">
                         <li role="menuitem">
@@ -34,6 +39,7 @@
                         </li>
                     </ul>
                 </div>
+                <!-- / Navigation bar -->
             </div>
         </nav>
         <div class="container">
@@ -45,6 +51,9 @@
             <i class="fa fa-angle-down"></i>
         </a>
     </header>
+    <!-- / Header -->
+
+    <!-- About section -->
     <section id="about" class="page">
         <div class="container">
             <div class="title underline">
@@ -52,6 +61,9 @@
             </div>
         </div>
     </section>
+    <!-- / About section -->
+
+    <!-- Portfolio section -->
     <section class="page bg-grey" id="portfolio">
         <div class="container">
             <div class="title underline">
@@ -59,13 +71,19 @@
             </div>
         </div>
     </section>
+    <!-- / Portfolio section -->
+
+    <!-- Work section -->
     <section class="page" id="work">
         <div class="container">
             <div class="title underline">
-                <h2>Werk</h2>
+                <h2>Portfolio</h2>
             </div>
         </div>
     </section>
+    <!-- / Work section -->
+
+    <!-- Contact section -->
     <section class="page bg-grey" id="contact">
         <div class="container">
             <div class="title underline">
@@ -73,7 +91,9 @@
             </div>
         </div>
     </section>
+    <!-- / Contact section -->
 
+    <!-- Footer section -->
     <footer>
         <div class="container">
             <div class="logo center">
@@ -110,5 +130,6 @@
             </div>
         </div>
     </footer>
+    <!-- / Contact section -->
 </body>
 </html>
