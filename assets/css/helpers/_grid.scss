@@ -2,3 +2,11 @@
   @include outer-container();
   width: 1170px;
 }
+
+.col-3 {
+  @include span-columns(3);
+}
+
+.col-4 {
+  @include span-columns(4);
+}

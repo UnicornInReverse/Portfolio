@@ -1,12 +1,16 @@
 // Plugins
 @import "../plugins/bourbon/bourbon";
 @import "../plugins/neat/neat";
+@import "../plugins/refills/source/stylesheets/all";
 
 // helpers
+@import "helpers/functions";
 @import "helpers/grid";
 @import "helpers/fonts";
 @import "helpers/colors";
 @import "helpers/sections";
+@import "helpers/helpers";
+@import "helpers/buttons";
 
 // modules
 @import "modules/nav";
@@ -15,3 +19,6 @@
 
 // partials
 @import "partials/logo";
+@import "partials/portfolio";
+@import "partials/parallax";
+@import "partials/modals";

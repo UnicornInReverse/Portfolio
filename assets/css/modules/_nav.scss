@@ -1,6 +1,14 @@
 nav {
+  background: transparent;
+  position: fixed;
+  width: 100%;
+  transition: background 0.5s ease;
+  z-index: 9999;
   .logo {
     @include span-columns(3);
+    h2 {
+      transition: all 0.5s ease;
+    }
   }
   .navbar-inner {
     @include span-columns(9);
@@ -25,11 +33,42 @@ nav {
           line-height: 1;
           padding: 43px 12px;
           border-bottom: 2px solid transparent;
-          transition: color 0.5s ease;
+          transition: all 0.5s ease;
+
+          &.icon {
+            font-size: 17px;
+            padding: 40px 12px;
+          }
 
           &:hover {
             color: $color-primary-1;
           }
+        }
+      }
+    }
+  }
+  &.scroll {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background: $color-nav-bg;
+    .logo {
+      h2 {
+        margin: 0;
+        margin: 15px 0;
+        font-size: 20px;
+      }
+    }
+    .navbar-inner {
+      ul li a {
+        padding: 30px 12px;
+        transition: 0.5s all ease;
+        &:hover {
+          color: #fff;
+          background: rgba(0,0,0,.2);
+        }
+        &.icon {
+          padding: 27px 12px;
         }
       }
     }
