@@ -189,7 +189,9 @@ html {
   max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
-  width: 1170px; }
+  width: 1170px;
+  max-width: 100%;
+  padding: 0 10px; }
   .container::after {
     clear: both;
     content: "";
@@ -211,6 +213,23 @@ html {
   .col-4:last-child {
     margin-right: 0; }
 
+.col-6 {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 48.82117%; }
+  .col-6:last-child {
+    margin-right: 0; }
+
+@media (max-width: 480px) {
+  div[class^="col-"] {
+    float: none;
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 100%; }
+    div[class^="col-"]:last-child {
+      margin-right: 0; } }
 section.page {
   padding: 50px 0;
   background: #fff; }
@@ -245,7 +264,7 @@ section.page {
     width: 80%; }
 
 .btn {
-  padding: 9px 18px;
+  padding: 5px 18px;
   background: transparent;
   border: 1px solid #ccc;
   display: inline-block;
@@ -346,7 +365,7 @@ header {
     position: absolute;
     display: inline-block;
     left: 50%;
-    margin-right: -25px;
+    margin-left: -25px;
     bottom: 20px;
     width: 50px;
     height: 50px;
@@ -581,6 +600,62 @@ footer {
 .modal-open {
   overflow: hidden; }
 
+/* smartphones, iPhone, portrait 480x320 phones */
+@media (max-width: 480px) {
+  header {
+    background: url("../img/bg-header-mobile.jpg") no-repeat repeat center bottom; }
+    header nav {
+      padding: 0 10px; }
+      header nav .logo {
+        width: 100%;
+        text-align: center; }
+      header nav .navbar-inner {
+        display: none; }
+    header .slogan {
+      font-size: 20px; }
+      header .slogan h1 {
+        margin-top: 60%; } }
+@media (min-width: 481px) {
+  /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
+@media (min-width: 641px) {
+  /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
+@media (min-width: 961px) {
+  /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+@media (max-width: 1025px) {
+  header {
+    background: url("../img/bg-header-tablet.jpg") no-repeat repeat center bottom; }
+    header .logo {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 40.29137%; }
+      header .logo:last-child {
+        margin-right: 0; }
+    header .navbar-inner {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 57.35098%; }
+      header .navbar-inner:last-child {
+        margin-right: 0; }
+
+  .portfolio .item {
+    margin-bottom: 30px;
+    height: auto; }
+    .portfolio .item img {
+      min-width: 100%;
+      min-height: 100%; }
+    .portfolio .item .moreInfo {
+      display: block;
+      width: 100%;
+      position: relative;
+      background: none;
+      height: auto;
+      line-height: 25px; }
+      .portfolio .item .moreInfo label {
+        display: block; } }
+@media (min-width: 1281px) {
+  /* hi-res laptops and desktops */ }
 html, body {
   background: #f0f0f0;
   padding: 0;
@@ -591,5 +666,11 @@ html, body {
 
 #about .content {
   letter-spacing: 2px; }
+
+.moreAboutMe {
+  display: none; }
+
+.owl-item > div {
+  text-align: center; }
 
 /*# sourceMappingURL=template.css.map */

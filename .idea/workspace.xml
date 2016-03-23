@@ -2,895 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a785991-565c-4079-9ae0-725398edbe5d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/owl-carousel/AjaxLoader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/owl-carousel/grabbing.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/EmeraldLake.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/ZeroClipboard.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/bourbon-nav/bitters.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/bourbon-nav/bitters@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/bourbon-nav/bourbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/bourbon-nav/bourbon@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/bourbon-nav/neat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/bourbon-nav/neat@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/bourbon-nav/refills.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/bourbon-nav/refills@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/cat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/cosmin_capitanu_screen.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/facebook-logo-circle-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/facebook-logo-circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/indesign-logo-circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/lake-transparent.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/menu-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/mountain-thin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/mountains-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/mountains-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/mountains-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/mountains.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/placeholder_logo_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/placeholder_logo_1_dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/placeholder_logo_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/placeholder_logo_2_dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/placeholder_logo_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/placeholder_logo_3_dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/placeholder_logo_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/placeholder_logo_4_dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/ralph-gray.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/ralph.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/refills-screenshot1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/refills-screenshot2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/refills-screenshot3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/search-icon-black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/search-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/sliding-menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/45degreee_fabric.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/45degreee_fabric_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/absurdidad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/absurdidad_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/az_subtle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/az_subtle_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/bgnoise_lg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/bgnoise_lg_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/binding_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/binding_light@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/brillant.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/brillant_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/brushed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/brushed_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/brushed_alu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/brushed_alu_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/chruch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/chruch_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/circles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/circles_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/concrete_wall_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/concrete_wall_2_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/concrete_wall_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/concrete_wall_3_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/corrugation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/corrugation_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/cream_pixels.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/cream_pixels@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/cross_scratches.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/cross_scratches_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/crosses.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/crosses_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/debut_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/debut_light_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/diagonal-noise.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/diagonal-noise_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/diagonal_waves.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/diagonal_waves_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/double_lined.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/double_lined_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/dust.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/dust@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/dust_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/fabric_plaid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/fabric_plaid_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/fancy_deboss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/fancy_deboss_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/farmer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/farmer_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/first_aid_kit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/first_aid_kit_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/graphy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/graphy_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/grey_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/grid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/grid_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/grid_noise.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/grid_noise_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/gridme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/gridme_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/grilled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/grilled_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/groovepaper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/groovepaper_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/honey_im_subtle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/honey_im_subtle_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/husk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/husk_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/45degreee_fabric.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/45degreee_fabric_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/absurdidad.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/absurdidad_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/az_subtle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/az_subtle_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/bgnoise_lg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/bgnoise_lg_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/binding_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/binding_light@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/brillant.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/brillant_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/brushed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/brushed_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/brushed_alu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/brushed_alu_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/chruch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/chruch_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/circles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/circles_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/concrete_wall_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/concrete_wall_2_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/concrete_wall_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/concrete_wall_3_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/corrugation.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/corrugation_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/cream_pixels.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/cream_pixels@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/cross_scratches.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/cross_scratches_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/crosses.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/crosses_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/debut_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/debut_light_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/diagonal-noise.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/diagonal-noise_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/diagonal_waves.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/diagonal_waves_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/double_lined.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/double_lined_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/dust.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/dust@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/dust_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/fabric_plaid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/fabric_plaid_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/fancy_deboss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/fancy_deboss_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/farmer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/farmer_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/first_aid_kit.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/first_aid_kit_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/graphy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/graphy_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/grey_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/grid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/grid_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/grid_noise.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/grid_noise_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/gridme.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/gridme_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/grilled.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/grilled_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/groovepaper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/groovepaper_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/honey_im_subtle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/honey_im_subtle_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/husk.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/husk_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/kindajean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/kindajean_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/lghtmesh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/lghtmesh_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/light_alu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/light_alu_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/light_noise_diagonal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/light_noise_diagonal_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/lil_fiber.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/lil_fiber_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/line_diagonal1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/line_diagonal2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/line_horizontal1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/line_horizontal2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/linen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/linen_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/little_pluses.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/little_pluses_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/mooning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/mooning@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/noise_lines.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/noise_lines_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/noise_pattern_with_crosslines.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/noise_pattern_with_crosslines_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/noisy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/noisy_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/noisy_grid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/noisy_grid_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/noisy_grid_simple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/old_mathematics.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/old_mathematics_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/old_wall.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/old_wall_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/p5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/p5_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/paper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/paper_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/pinstripe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/pinstripe_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/ps_neutral.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/ps_neutral_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/pw_maze_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/pw_maze_white_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/pw_pattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/pw_pattern_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/retina_dust.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/retina_dust_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/rice_paper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/rice_paper@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/rough_diagonal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/rough_diagonal_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/shinedotted.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/shinedotted_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/skin_side_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/skin_side_up_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/squairy_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/squairy_light_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/stacked_circles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/stacked_circles_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/striped_lens.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/striped_lens_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/struckaxiom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/struckaxiom_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/stucco.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/stucco_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/subtle_dots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/subtle_dots_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/subtle_freckles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/subtle_freckles_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/subtle_grunge.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/subtle_grunge_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/subtle_surface.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/subtle_surface_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/subtle_zebra_3d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/subtle_zebra_3d_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/subtlenet2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/subtlenet2_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/tex2res5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/tex2res5_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/texturetastic_gray.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/texturetastic_gray_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/tiny_grid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/tiny_grid_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/vichy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/vichy_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/vintage_speckles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/vintage_speckles_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/wavecut.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/wavecut_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/wavegrid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/wavegrid_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/white_carbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/white_carbon_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/white_texture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/white_texture_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/white_wave.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/white_wave_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/whitey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/whitey_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/worn_dots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/inverted/worn_dots_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/kindajean.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/kindajean_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/lghtmesh.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/lghtmesh_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/light_alu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/light_alu_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/light_noise_diagonal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/light_noise_diagonal_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/lil_fiber.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/lil_fiber_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/line_diagonal1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/line_diagonal2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/line_horizontal1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/line_horizontal2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/linen.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/linen_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/little_pluses.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/little_pluses_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/mooning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/mooning@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/noise_lines.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/noise_lines_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/noise_pattern_with_crosslines.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/noise_pattern_with_crosslines_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/noisy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/noisy_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/noisy_grid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/noisy_grid_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/noisy_grid_simple.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/old_mathematics.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/old_mathematics_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/old_wall.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/old_wall_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/p5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/p5_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/paper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/paper_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/pinstripe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/pinstripe_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/ps_neutral.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/ps_neutral_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/pw_maze_white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/pw_maze_white_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/pw_pattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/pw_pattern_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/retina_dust.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/retina_dust_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/rice_paper.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/rice_paper@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/rough_diagonal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/rough_diagonal_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/shinedotted.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/shinedotted_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/skin_side_up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/skin_side_up_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/squairy_light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/squairy_light_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/stacked_circles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/stacked_circles_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/striped_lens.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/striped_lens_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/struckaxiom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/struckaxiom_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/stucco.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/stucco_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/subtle_dots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/subtle_dots_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/subtle_freckles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/subtle_freckles_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/subtle_grunge.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/subtle_grunge_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/subtle_surface.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/subtle_surface_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/subtle_zebra_3d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/subtle_zebra_3d_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/subtlenet2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/subtlenet2_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/tex2res5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/tex2res5_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/texturetastic_gray.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/texturetastic_gray_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/tiny_grid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/tiny_grid_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/vichy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/vichy_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/vintage_speckles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/vintage_speckles_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/wavecut.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/wavecut_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/wavegrid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/wavegrid_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/white_carbon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/white_carbon_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/white_texture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/white_texture_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/white_wave.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/white_wave_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/whitey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/whitey_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/worn_dots.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/textures/worn_dots_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/twitter-logo-circle-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/twitter-logo-circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/youtube-logo-circle-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/youtube-logo-circle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/helpers/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/helpers/_functions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/helpers/_helpers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/partials/_modals.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/partials/_parallax.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/partials/_portfolio.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/_bourbon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/_neat-helpers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/_neat.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/functions/_new-breakpoint.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/functions/_private.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/grid/_box-sizing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/grid/_direction-context.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/grid/_display-context.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/grid/_fill-parent.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/grid/_media.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/grid/_omega.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/grid/_outer-container.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/grid/_pad.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/grid/_private.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/grid/_row.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/grid/_shift.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/grid/_span-columns.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/grid/_to-deprecate.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/grid/_visual-grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/settings/_disable-warnings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/settings/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/neat/settings/_visual-grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/_bourbon-nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/_refill.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/_refills-footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/_refills-header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/_refills-menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/_refills-nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/_refills-styles.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/_refills-variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/all.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_accordion-tabs-minimal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_accordion-tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_accordion.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_animate-info.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_animate.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_badges.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_breadcrumbs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_button-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_cards.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_centered-navigation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_comment.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_device.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_expander.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_fade-in.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_flashes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_flex-boxes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_footer-2.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_grid-items-lines.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_grid-items.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_hero.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_hover-tile-animation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_icon-bullet-points.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_image-gradient-dynamic.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_maps.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_modal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_navigation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_parallax.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_progress-bar-indication.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_progress-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_ribbon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_scroll-on-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_search-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_search-tools.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_side-image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_sliding-panel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_stats.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_switch.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_tables-minimal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_texture-legend.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_textures.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_type-system-geometric.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_type-system-rounded.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_type-system-sans.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_type-system-serif.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_type-system-slab.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_type-system-traditional.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_vertical-tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/_video.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_accordion-tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_accordion.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_button-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_cards.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_comment.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_expander.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_hover-menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_modal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_navigation-centered.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_navigation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_scroll-on-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_search-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_sliding-panel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_switch.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/refills/unstyled/_vertical-tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/vendor/fixedsticky.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/vendor/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/backup/refill/vendor/prism.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/_bourbon-deprecated-upcoming.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_border-color.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_border-radius.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_border-style.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_border-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_clearfix.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_ellipsis.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_font-stacks.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_hide-text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_margin.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_padding.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_position.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_prefixer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_retina-image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_size.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_text-inputs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_timing-functions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_triangle.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/addons/_word-wrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_animation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_appearance.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_backface-visibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_background-image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_background.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_border-image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_calc.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_columns.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_filter.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_flex-box.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_font-face.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_font-feature-settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_hidpi-media-query.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_hyphens.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_image-rendering.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_keyframes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_linear-gradient.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_perspective.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_placeholder.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_radial-gradient.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_selection.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_text-decoration.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_transform.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_transition.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/css3/_user-select.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/functions/_assign-inputs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/functions/_contains-falsy.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/functions/_contains.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/functions/_is-length.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/functions/_is-light.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/functions/_is-number.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/functions/_is-size.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/functions/_modular-scale.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/functions/_px-to-em.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/functions/_px-to-rem.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/functions/_shade.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/functions/_strip-units.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/functions/_tint.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/functions/_transition-property-name.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/functions/_unpack.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/helpers/_convert-units.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/helpers/_directional-values.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/helpers/_font-source-declaration.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/helpers/_gradient-positions-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/helpers/_linear-angle-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/helpers/_linear-gradient-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/helpers/_linear-positions-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/helpers/_linear-side-corner-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/helpers/_radial-arg-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/helpers/_radial-gradient-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/helpers/_radial-positions-parser.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/helpers/_render-gradients.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/helpers/_shape-size-stripper.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/helpers/_str-to-num.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/settings/_asset-pipeline.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/settings/_prefixer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/settings/_px-to-em.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/owl-carousel/owl.carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/owl-carousel/owl.carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/owl-carousel/owl.carousel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/owl-carousel/owl.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/owl-carousel/owl.transitions.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/.buildpacks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/.hound.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/.ruby-version" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/.scss-lint.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/bin/deploy" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/bin/setup" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/config.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/lib/refills.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/lib/refills/import_generator.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/lib/refills/list_generator.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/lib/refills/version.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/lib/snippet_helpers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/refills.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/sache.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_accordion.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_accordion_tabs.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_accordion_tabs_minimal.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_animate.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_animate_info.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_badges.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_breadcrumbs.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_button_group.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_cards.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_centered_navigation.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_code.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_comment.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_device.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_dropdown.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_expander.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_fade_in.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_flashes.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_flex_boxes.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_footer.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_footer_2.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_grid_items.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_grid_items_lines.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_hero.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_hover_tile_animation.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_icon_bullet_points.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_image_gradient_dynamic.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_maps.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_modal.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_navigation.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_pagination.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_parallax.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_progress_bar.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_progress_bar_indication.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_ribbon.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_scroll_on_page.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_search_bar.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_search_tools.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_side_image.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_sliding_panel.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_snippet.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_stats.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_switch.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_tables.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_tables_minimal.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_texture-legend.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_textures.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_tooltip.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_type_system_geometric.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_type_system_rounded.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_type_system_sans.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_type_system_serif.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_type_system_slab.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_type_system_traditional.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_vertical_tabs.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/_video.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/components.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/new.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/images/refills-logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/jquery.erToc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/jquery.glide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/menuAnchorAnimation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/accordion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/accordion_base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/accordion_tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/accordion_tabs_minimal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/animate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/base-accordion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/centered_navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/accordion.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/accordion_base.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/accordion_tabs.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/accordion_tabs_minimal.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/animate.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/base-accordion.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/centered_navigation.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/dropdown.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/expander.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/fade_in.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/modal.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/navigation.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/parallax.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/scroll_on_page.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/search_tools.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/sliding_menu.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/sliding_panel.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/coffeescript/vertical_tabs.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/expander.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/fade_in.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/navigation_centered.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/parallax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/scroll_on_page.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/search_tools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/sliding_panel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/unstyled/accordion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/unstyled/accordion_tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/unstyled/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/unstyled/expander.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/unstyled/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/unstyled/navigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/unstyled/navigation_centered.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/unstyled/scroll_on_page.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/unstyled/sliding_panel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/unstyled/vertical_tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/refills/vertical_tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/vendor/ZeroClipboard.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/vendor/fixedsticky.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/vendor/prism.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/javascripts/vendor/smooth-scroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/layouts/layout.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/refills-hero.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/refills-menu.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/refills-page-scripts.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/_bourbon-nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/_refill.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/_refills-footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/_refills-header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/_refills-menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/_refills-nav.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/_refills-styles.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/_refills-variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/all.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/base/_base.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/base/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/base/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/base/_grid-settings.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/base/_lists.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/base/_tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/base/_typography.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/base/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_accordion-tabs-minimal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_accordion-tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_accordion.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_animate-info.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_animate.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_badges.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_breadcrumbs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_button-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_cards.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_centered-navigation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_comment.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_device.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_expander.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_fade-in.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_flashes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_flex-boxes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_footer-2.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_grid-items-lines.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_grid-items.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_hero.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_hover-tile-animation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_icon-bullet-points.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_image-gradient-dynamic.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_maps.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_modal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_navigation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_parallax.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_progress-bar-indication.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_progress-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_ribbon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_scroll-on-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_search-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_search-tools.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_side-image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_sliding-panel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_stats.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_switch.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_tables-minimal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_texture-legend.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_textures.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_type-system-geometric.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_type-system-rounded.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_type-system-sans.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_type-system-serif.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_type-system-slab.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_type-system-traditional.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_vertical-tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/_video.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_accordion-tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_accordion.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_button-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_cards.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_comment.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_dropdown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_expander.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_footer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_hover-menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_modal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_navigation-centered.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_navigation.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_scroll-on-page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_search-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_sliding-panel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_switch.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/refills/unstyled/_vertical-tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/vendor/fixedsticky.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/vendor/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/stylesheets/vendor/prism.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/svgs/_menu_icon.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/svgs/_refills_logo.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/source/type-systems.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/spec/refills/import_generator_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/refills/spec/spec_helper.rb" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/Rick van der Burg - portfolio.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/Rick van der Burg - portfolio_bestanden/template.css" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_border-color.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_border-color.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_border-radius.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_border-radius.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_border-style.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_border-style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_border-width.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_border-width.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_buttons.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_buttons.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_clearfix.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_clearfix.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_contrast-switch.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_contrast-switch.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_ellipsis.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_ellipsis.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_font-face.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_font-face.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_font-stacks.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_font-stacks.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_hide-text.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_hide-text.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_hide-visually.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_hide-visually.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_margin.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_margin.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_modular-scale.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_modular-scale.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_padding.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_padding.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_position.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_position.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_prefixer.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_prefixer.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_size.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_size.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_text-inputs.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_text-inputs.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_timing-functions.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_timing-functions.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_word-wrap.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_word-wrap.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/functions/_assign-inputs.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/functions/_assign-inputs.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/functions/_collapse-directionals.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/functions/_collapse-directionals.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/functions/_contains-falsy.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/functions/_contains-falsy.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/functions/_contains.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/functions/_contains.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/functions/_font-source-declaration.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/functions/_font-source-declaration.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/functions/_is-length.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/functions/_is-length.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/functions/_is-light.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/functions/_is-light.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/functions/_is-number.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/functions/_is-number.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/functions/_is-size.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/functions/_is-size.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/functions/_shade.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/functions/_shade.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/functions/_strip-unit.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/functions/_strip-unit.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/functions/_tint.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/functions/_tint.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/functions/_unpack.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/functions/_unpack.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/helpers/_directional-values.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/helpers/_directional-values.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/settings/_bourbon-get-setting.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/settings/_bourbon-get-setting.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/settings/_scales.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/settings/_scales.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/settings/_settings.scss" afterPath="$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/settings/_settings.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/partials/_mobile.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/bg-header.jpg" afterPath="$PROJECT_DIR$/assets/img/bg-header.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/base.scss" afterPath="$PROJECT_DIR$/assets/css/base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/helpers/_colors.scss" afterPath="$PROJECT_DIR$/assets/css/helpers/_colors.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/helpers/_buttons.scss" afterPath="$PROJECT_DIR$/assets/css/helpers/_buttons.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/helpers/_grid.scss" afterPath="$PROJECT_DIR$/assets/css/helpers/_grid.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/modules/_header.scss" afterPath="$PROJECT_DIR$/assets/css/modules/_header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/modules/_nav.scss" afterPath="$PROJECT_DIR$/assets/css/modules/_nav.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/template.css" afterPath="$PROJECT_DIR$/assets/css/template.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/template.css.map" afterPath="$PROJECT_DIR$/assets/css/template.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/template.scss" afterPath="$PROJECT_DIR$/assets/css/template.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/pageload.js" afterPath="$PROJECT_DIR$/assets/js/pageload.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/bourbon/_bourbon.scss" afterPath="$PROJECT_DIR$/assets/plugins/bourbon/_bourbon.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/_neat-helpers.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/_neat-helpers.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/_neat.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/_neat.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/functions/_new-breakpoint.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/functions/_new-breakpoint.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/functions/_private.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/functions/_private.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/grid/_box-sizing.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/grid/_box-sizing.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/grid/_direction-context.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/grid/_direction-context.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/grid/_display-context.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/grid/_display-context.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/grid/_fill-parent.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/grid/_fill-parent.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/grid/_media.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/grid/_media.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/grid/_omega.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/grid/_omega.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/grid/_outer-container.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/grid/_outer-container.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/grid/_pad.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/grid/_pad.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/grid/_private.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/grid/_private.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/grid/_row.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/grid/_row.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/grid/_shift.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/grid/_shift.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/grid/_span-columns.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/grid/_span-columns.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/grid/_to-deprecate.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/grid/_to-deprecate.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/grid/_visual-grid.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/grid/_visual-grid.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/settings/_disable-warnings.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/settings/_disable-warnings.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/settings/_grid.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/settings/_grid.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/neat/settings/_visual-grid.scss" afterPath="$PROJECT_DIR$/assets/plugins/neat/settings/_visual-grid.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="portfolio.iws" />
@@ -916,18 +38,38 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+            <state relative-caret-position="457">
+              <caret line="143" column="14" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_nav.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/modules/_nav.scss">
+      <file leaf-file-name="_mobile.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/partials/_mobile.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="883">
-              <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+            <state relative-caret-position="272">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/template.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_grid.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/helpers/_grid.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -948,23 +90,24 @@
         <option value="$PROJECT_DIR$/assets/css/partials/_logo.scss" />
         <option value="$PROJECT_DIR$/assets/css/modules/_footer.scss" />
         <option value="$PROJECT_DIR$/assets/plugins/jquery/jquery.min.js" />
-        <option value="$PROJECT_DIR$/assets/css/helpers/_grid.scss" />
         <option value="$PROJECT_DIR$/assets/css/helpers/_functions.scss" />
         <option value="$PROJECT_DIR$/assets/css/partials/_slide.scss" />
         <option value="$PROJECT_DIR$/assets/css/helpers/_helpers.scss" />
         <option value="$PROJECT_DIR$/assets/plugins/refill/all.css.scss" />
         <option value="$PROJECT_DIR$/assets/plugins/refill/all.scss" />
         <option value="$PROJECT_DIR$/assets/plugins/bourbon/bourbon/addons/_size.scss" />
-        <option value="$PROJECT_DIR$/assets/css/template.scss" />
-        <option value="$PROJECT_DIR$/assets/css/modules/_header.scss" />
         <option value="$PROJECT_DIR$/assets/css/partials/_parallax.scss" />
         <option value="$PROJECT_DIR$/assets/css/partials/_portfolio.scss" />
-        <option value="$PROJECT_DIR$/assets/css/base.scss" />
         <option value="$PROJECT_DIR$/assets/css/helpers/_colors.scss" />
-        <option value="$PROJECT_DIR$/assets/css/helpers/_buttons.scss" />
-        <option value="$PROJECT_DIR$/assets/js/pageload.js" />
         <option value="$PROJECT_DIR$/assets/css/partials/_modals.scss" />
         <option value="$PROJECT_DIR$/assets/css/modules/_nav.scss" />
+        <option value="$PROJECT_DIR$/assets/css/modules/_header.scss" />
+        <option value="$PROJECT_DIR$/assets/css/helpers/_buttons.scss" />
+        <option value="$PROJECT_DIR$/assets/js/pageload.js" />
+        <option value="$PROJECT_DIR$/assets/css/base.scss" />
+        <option value="$PROJECT_DIR$/assets/css/helpers/_grid.scss" />
+        <option value="$PROJECT_DIR$/assets/css/partials/_mobile.scss" />
+        <option value="$PROJECT_DIR$/assets/css/template.scss" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -979,10 +122,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
+    <option name="x" value="1722" />
     <option name="y" value="23" />
-    <option name="width" value="1676" />
-    <option name="height" value="1027" />
+    <option name="width" value="1718" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -1009,7 +152,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -1057,7 +199,47 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="partials" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -1107,13 +289,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../teamstack/tvgids" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../teamstack/drivecloud" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -1186,25 +369,27 @@
       <workItem from="1458484300581" duration="699000" />
       <workItem from="1458485073654" duration="6000" />
       <workItem from="1458485090389" duration="1694000" />
-      <workItem from="1458548298506" duration="6090000" />
+      <workItem from="1458548298506" duration="7910000" />
+      <workItem from="1458657685761" duration="27000" />
+      <workItem from="1458730745971" duration="4896000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13673000" />
+    <option name="totallyTimeSpent" value="20416000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1676" height="1027" extended-state="6" />
+    <frame x="1722" y="23" width="1718" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1879475" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13736904" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283154" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24378109" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17562725" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1251,13 +436,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/template.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/partials/_logo.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1381,21 +559,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/helpers/_grid.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/template.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/Rick van der Burg - portfolio.html" />
@@ -1457,34 +628,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/helpers/_helpers.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/plugins/backup/bourbon/bourbon/addons/_size.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="553">
           <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/modules/_header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/template.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1507,7 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="407">
           <caret line="21" column="24" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1520,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1528,7 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1536,7 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1544,23 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/base.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/helpers/_buttons.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1568,7 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="7" column="10" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1576,30 +701,84 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/pageload.js">
+    <entry file="file://$PROJECT_DIR$/assets/css/modules/_header.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="98" column="0" selection-start-line="98" selection-start-column="0" selection-end-line="98" selection-end-column="0" />
+        <state relative-caret-position="518">
+          <caret line="24" column="23" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/modules/_nav.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="883">
-          <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
+        <state relative-caret-position="34">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/helpers/_buttons.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/pageload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="755">
+          <caret line="116" column="1" selection-start-line="116" selection-start-column="1" selection-end-line="116" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/helpers/_helpers.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/helpers/_grid.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/partials/_mobile.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/template.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+        <state relative-caret-position="457">
+          <caret line="143" column="14" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
           <folding />
         </state>
       </provider>

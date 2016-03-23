@@ -1,6 +1,8 @@
 .container {
   @include outer-container();
   width: 1170px;
+  max-width: 100%;
+  padding: 0 10px;
 }
 
 .col-3 {
@@ -9,4 +11,15 @@
 
 .col-4 {
   @include span-columns(4);
+}
+
+.col-6 {
+  @include span-columns(6);
+}
+
+@media (max-width:480px) {
+  div[class^="col-"] {
+    float: none;
+    @include span-columns(12);
+  }
 }

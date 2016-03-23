@@ -7,15 +7,17 @@ $(function() {
     modals();
     useEscInModals();
     worksWith();
+    showMoreAboutMe();
 });
 
 // Scroll down to certain element on page
 var scrollDown = function() {
     $(".navbar-inner a, a.easeScroll").on('click', function(e) {
-        e.preventDefault();
+        if(!$(this).hasClass('icon'))
+            e.preventDefault();
         var element = $(this).attr('href');
         $('html, body').animate({
-            scrollTop: $(element).offset().top
+            scrollTop: ($(element).offset().top - 75)
         }, 1000);
     });
 }
@@ -27,6 +29,7 @@ var changeNavWhileScrolling = function() {
     });
 }
 
+// Add .scroll to the navigation bar when scrolling
 var addScrollClass = function() {
     var scrollHeight = $(this).scrollTop();
     if(scrollHeight > 10) {
@@ -44,6 +47,7 @@ var portfolio = function() {
     });
 }
 
+// Parallax scrolling (Plugin: Refill)
 var parallax = function() {
     $(document).ready(function() {
         if ($("#js-parallax-window").length) {
@@ -57,7 +61,7 @@ var parallax = function() {
         }
     });
 
-    function parallax(){
+    var parallax = function(){
         if( $("#js-parallax-window").length > 0 ) {
             var plxBackground = $("#js-parallax-background");
             var plxWindow = $("#js-parallax-window");
@@ -77,6 +81,7 @@ var parallax = function() {
     }
 }
 
+// Portfolio modals (Plugin: Refill)
 var modals = function() {
     $(function() {
         $("#modal-1").on("change", function() {
@@ -97,6 +102,7 @@ var modals = function() {
     });
 }
 
+// Close modals
 var closeModals = function() {
     $(".modal-state:checked").prop("checked", false).change();
 }
@@ -110,6 +116,15 @@ var useEscInModals = function() {
     });
 }
 
+// Carousel what I work with
 var worksWith = function() {
     $(".owl-carousel").owlCarousel();
+}
+
+// Show/Hide more about me
+var showMoreAboutMe = function() {
+    $("#showMore").on('click', function(e) {
+        e.preventDefault();
+         $(".moreAboutMe").slideToggle();
+    });
 }

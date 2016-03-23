@@ -2,7 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Rick van der Burg - portfolio</title>
+
+    <!-- styles -->
     <link rel="stylesheet" href="assets/css/template.css">
     <link rel="stylesheet" href="assets/plugins/owl-carousel/owl.carousel.css">
     <link rel="stylesheet" href="assets/plugins/owl-carousel/owl.theme.css">
@@ -34,12 +37,12 @@
                             <a href="#portfolio">Portfolio</a>
                         </li>
                         <li role="menuitem">
-                            <a href="http://github.com/itsrd" class="icon">
+                            <a href="http://github.com/itsrd" class="icon" target="_blank">
                                 <i class="fa fa-github"></i>
                             </a>
                         </li>
                         <li role="menuitem">
-                            <a href="https://nl.linkedin.com/in/rickvdburg" class="icon">
+                            <a href="https://nl.linkedin.com/in/rickvdburg" class="icon" target="_blank">
                                 <i class="fa fa-linkedin"></i>
                             </a>
                         </li>
@@ -67,8 +70,28 @@
             </div>
             <div class="content">
                 <div class="text-center text-block">
-                    Mijn naam is Rick van der Burg en ik studeer momenteel MediaTechnologie op Hogeschool Rotterdam. Naast studeren heb ik momenteel mijn eigen bedrijfje opgezet met als doel zoveel mogelijk te leren naast mijn schoolwerkzaamheden.  Voordat ik aan deze studie ben begonnen heb ik de studie MediaTechnologie gedaan op het Grafisch Lyceum Rotterdam, hierdoor heb ik veel ervaring op kunnen doen met verschillende programmeertalen en ben ik erachter gekomen dat backend development echt mijn ding is.
+                    Mijn naam is Rick van der Burg en ik studeer momenteel MediaTechnologie op Hogeschool Rotterdam. Naast studeren heb ik momenteel mijn eigen bedrijfje opgezet met als doel zoveel mogelijk te leren naast mijn schoolwerkzaamheden.  Voordat ik aan deze studie ben begonnen heb ik de studie MediaTechnologie gedaan op het Grafisch Lyceum Rotterdam, hierdoor heb ik veel ervaring op kunnen doen met verschillende programmeertalen.
+
+                    <p>
+                        <a href="#" id="showMore" class="btn">Meer over mij</a>
+                    </p>
                 </div>
+
+                <div class="moreAboutMe">
+                    <div class="col-6">
+                        <h3 class="title">Rick van der Burg</h3>
+                        <p class="text-block text-center">
+                            Momenteel ben ik al 11 jaar bezig met het ontwikkelen van websites en nog steeds is het mijn dagelijkse bezigheid. Ik leer graag nieuwe programmeertalen en in de toekomst wil ik me meer gaan verdiepen in mobiele applicaties en beter worden in Laravel/PHP om zo nog betere websites te maken.
+                        </p>
+                    </div>
+                    <div class="col-6">
+                        <h3 class="title">Pixcero</h3>
+                        <p class="text-block text-center">
+                            Pixcero is mijn eigen bedrijf die ik ben gestart op 1 januari 2015. Sindsdien heb ik een hoop geleerd en hoop ik nog steeds elke dag bij te kunnen leren. Momenteel werk ik samen met 3 andere ZZP'ers om op deze manier mooie websites neer te zetten en te leren van elkaar.
+                        </p>
+                    </div>
+                </div>
+
             </div>
         </div>
     </section>
@@ -218,7 +241,7 @@
                 <p class="modal-intro">PlayPlastic is een project voor school waarin ik vooral heb gefocust op de backend van het project. Het doel was om plastic in de oceanen aan te pakken door bij de oorzaak te beginnen. Per dag produceren wij een enorme hoeveelheid aan plastic en willen daarom mensen stimuleren om plastic te scheiden van het normale afval. Dit deden we door een speciale prullenbak met een klein spelletje waar je punten mee kon scoren, vervolgens kon je met deze punten bepaalde kortingen kopen.</p>
                 <p>
                     <span class="text-bold">Type Project: </span> School project (Maatwerk in Laravel)<br>
-                    <span class="text-bold">In samenwerking met: </span> Deborah, Lennart, Ugurkan en <a href="http://wmcheung.nl">Wesley Cheung</a>
+                    <span class="text-bold">In samenwerking met: </span> Deborah, Lennart, Ugurkan en <a href="http://wmcheung.nl">Wesley</a>
                 </p>
                 <a href="http://github.com" target="_blank" class="btn btn-lg"><i class="fa fa-github"></i> Github</a>
                 <a href="http://playplastic.pixcero.nl" target="_blank" class="btn btn-lg"><i class="fa fa-paper-plane"></i> Preview</a>
