@@ -51,14 +51,18 @@
                 <!-- / Navigation bar -->
             </div>
         </nav>
+        <!-- Slogan -->
         <div class="container">
             <div class="slogan">
                 <h1>"Well begun is half done"</h1>
             </div>
         </div>
+        <!-- / Slogan -->
+        <!-- Scroll to next section -->
         <a href="#about" class="nextSection easeScroll">
             <i class="fa fa-angle-down"></i>
         </a>
+        <!-- / Scroll to next section -->
     </header>
     <!-- / Header -->
 
@@ -69,29 +73,34 @@
                 <h2>Over mij</h2>
             </div>
             <div class="content">
+                <!-- Information about me -->
                 <div class="text-center text-block">
                     Mijn naam is Rick van der Burg en ik studeer momenteel MediaTechnologie op Hogeschool Rotterdam. Naast studeren heb ik momenteel mijn eigen bedrijfje opgezet met als doel zoveel mogelijk te leren naast mijn schoolwerkzaamheden.  Voordat ik aan deze studie ben begonnen heb ik de studie MediaTechnologie gedaan op het Grafisch Lyceum Rotterdam, hierdoor heb ik veel ervaring op kunnen doen met verschillende programmeertalen.
-
                     <p>
                         <a href="#" id="showMore" class="btn">Meer over mij</a>
                     </p>
                 </div>
+                <!-- / Information about me -->
 
+                <!-- More about me, collapse when button "show more" is pressed -->
                 <div class="moreAboutMe">
                     <div class="col-6">
+                        <!-- Who I'm -->
                         <h3 class="title">Rick van der Burg</h3>
                         <p class="text-block text-center">
                             Momenteel ben ik al 11 jaar bezig met het ontwikkelen van websites en nog steeds is het mijn dagelijkse bezigheid. Ik leer graag nieuwe programmeertalen en in de toekomst wil ik me meer gaan verdiepen in mobiele applicaties en beter worden in Laravel/PHP om zo nog betere websites te maken.
                         </p>
+                        <!-- / Who I'm -->
                     </div>
                     <div class="col-6">
+                        <!-- About Pixcero -->
                         <h3 class="title">Pixcero</h3>
                         <p class="text-block text-center">
                             Pixcero is mijn eigen bedrijf die ik ben gestart op 1 januari 2015. Sindsdien heb ik een hoop geleerd en hoop ik nog steeds elke dag bij te kunnen leren. Momenteel werk ik samen met 3 andere ZZP'ers om op deze manier mooie websites neer te zetten en te leren van elkaar.
                         </p>
+                        <!-- / About Pixcero -->
                     </div>
                 </div>
-
             </div>
         </div>
     </section>
@@ -105,6 +114,7 @@
             </div>
             <div class="content portfolio">
                 <div class="col-4">
+                    <!-- Portfolio item: Schoonheidssalon Mandy -->
                     <div class="item">
                         <img src="assets/img/portfolio/schoonheidssalonmandy-small.png" alt="Schoonheidssalon Mandy">
                         <div class="moreInfo">
@@ -113,8 +123,10 @@
                             </label>
                         </div>
                     </div>
+                    <!-- / Portfolio item: Schoonheidssalon Mandy -->
                 </div>
                 <div class="col-4">
+                    <!-- Portfolio item: 4Staying -->
                     <div class="item">
                         <img src="assets/img/portfolio/4staying-small.png" alt="4Staying">
                         <div class="moreInfo">
@@ -123,8 +135,10 @@
                             </label>
                         </div>
                     </div>
+                    <!-- / Portfolio item: 4Staying -->
                 </div>
                 <div class="col-4">
+                    <!-- Portfolio item: PlayPlastic -->
                     <div class="item">
                         <img src="assets/img/portfolio/playplastic-small.png" alt="PlayPlastic">
                         <div class="moreInfo">
@@ -133,19 +147,22 @@
                             </label>
                         </div>
                     </div>
+                    <!-- / Portfolio item: PlayPlastic -->
                 </div>
             </div>
         </div>
     </section>
     <!-- / Portfolio section -->
 
+    <!-- Parallax scrolling window -->
     <div id="js-parallax-window" class="parallax-window">
         <div class="parallax-static-content">
         </div>
         <div id="js-parallax-background" class="parallax-background"></div>
     </div>
+    <!-- / Parallax scrolling window -->
 
-    <!-- Contact section -->
+    <!-- 'What do I use and can I do' section -->
     <section class="page">
         <div class="container">
             <div class="content">
@@ -164,93 +181,51 @@
             </div>
         </div>
     </section>
-    <!-- / Contact section -->
+    <!-- / 'What do I use and can I do' section -->
 
     <!-- Footer section -->
     <footer>
         <div class="container">
+            <!-- Logo -->
             <div class="logo center">
                 <a href="#">
                     <h2>Rick van der Burg</h2>
                 </a>
             </div>
+            <!-- / Logo -->
+            <!-- Copyright -->
             <div class="copyright">
                 &copy; Copyright <?= date('Y') ?>. All Rights Reserved.
             </div>
+            <!-- / Copyright -->
+            <!-- Social Icons -->
             <div class="social-icons">
                 <ul>
                     <li>
-                        <a href="http://github.com/itsrd">
+                        <a href="http://github.com/itsrd" target="_blank">
                             <i class="fa fa-github"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="">
+                        <a href="mailto: rickvdburg@live.nl">
                             <i class="fa fa-envelope-o"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://linkedin.com/in/rickvdburg">
+                        <a href="https://linkedin.com/in/rickvdburg" target="_blank">
                             <i class="fa fa-linkedin"></i>
                         </a>
                     </li>
                 </ul>
             </div>
+            <!-- / Social Icons -->
         </div>
     </footer>
     <!-- / Contact section -->
 
-    <!-- Modals -->
-    <div class="modal">
-        <input class="modal-state" id="schoonheidssalonMandy" type="checkbox" />
-        <div class="modal-fade-screen">
-            <div class="modal-inner">
-                <div class="modal-close" for="modal-1"></div>
-                <h1>Schoonheidssalon Mandy</h1>
-                <p class="modal-intro">Schoonheidssalon Mandy is een opdracht die ik gedaan heb voor mijn eigen bedrijf Pixcero. Schoonheidssalon Mandy had hiervoor nog geen website en wilde graag een website hebben die goed beheerbaar was om in de toekomst eventueel teksten aan te passen en zelf acties te kunnen plaatsen wanneer nodig. Ik heb samen met Wesley Cheung (Frontender/Designer) de website gemaakt. Tijdens het bouwen van de website heb ik me vooral bezig gehouden met het maken van het template in Wordpress.</p>
-                <p>
-                    <span class="text-bold">Type Project: </span> Wordpress <br>
-                    <span class="text-bold">In samenwerking met: </span> <a href="http://wmcheung.nl">Wesley Cheung</a>
-                </p>
-
-                <a href="http://schoonheidssalonmandy.nl" target="_blank" class="btn btn-lg"><i class="fa fa-paper-plane"></i> Preview</a>
-            </div>
-        </div>
-    </div>
-    <div class="modal">
-        <input class="modal-state" id="4staying" type="checkbox" />
-        <div class="modal-fade-screen">
-            <div class="modal-inner">
-                <div class="modal-close" for="modal-1"></div>
-                <h1>4Staying</h1>
-                <p class="modal-intro">4Staying is een website waar flexwerkers een huis of appartement kunnen huren voor een bepaalde periode. Daarnaast is het ook mogelijk voor particulieren om hun huis, kamer of appartement te verhuren aan flexwerkers. Dit is het grootste project waar ik aan meegewerkt heb en daardoor heb ik ook enorm veel geleerd om dit soort projecten nog beter aan te kunnen pakken in de toekomst. Samen met 3 andere ZZP'ers heb ik dit project mogen doen.</p>
-                <p>
-                    <span class="text-bold">Type Project: </span> Maatwerk in Laravel<br>
-                    <span class="text-bold">In samenwerking met: </span> Mees Overdevest, Remco Visser en <a href="http://wmcheung.nl">Wesley Cheung</a>
-                </p>
-                <a href="#" target="_blank" class="btn btn-lg"><i class="fa fa-code-fork"></i> In development</a>
-            </div>
-        </div>
-    </div>
-    <div class="modal">
-        <input class="modal-state" id="playplastic" type="checkbox" />
-        <div class="modal-fade-screen">
-            <div class="modal-inner">
-                <div class="modal-close" for="modal-1"></div>
-                <h1>PlayPlastic</h1>
-                <p class="modal-intro">PlayPlastic is een project voor school waarin ik vooral heb gefocust op de backend van het project. Het doel was om plastic in de oceanen aan te pakken door bij de oorzaak te beginnen. Per dag produceren wij een enorme hoeveelheid aan plastic en willen daarom mensen stimuleren om plastic te scheiden van het normale afval. Dit deden we door een speciale prullenbak met een klein spelletje waar je punten mee kon scoren, vervolgens kon je met deze punten bepaalde kortingen kopen.</p>
-                <p>
-                    <span class="text-bold">Type Project: </span> School project (Maatwerk in Laravel)<br>
-                    <span class="text-bold">In samenwerking met: </span> Deborah, Lennart, Ugurkan en <a href="http://wmcheung.nl">Wesley</a>
-                </p>
-                <a href="http://github.com" target="_blank" class="btn btn-lg"><i class="fa fa-github"></i> Github</a>
-                <a href="http://playplastic.pixcero.nl" target="_blank" class="btn btn-lg"><i class="fa fa-paper-plane"></i> Preview</a>
-            </div>
-        </div>
-    </div>
-
-    <!-- / Modals -->
-
+    <!-- Include portfolio-->
+    <?php require_once 'partials/modals.php'; ?>
+    <!-- / Include portfolio-->
 
     <!-- Scripts -->
     <script src="assets/plugins/jquery/jquery.min.js"></script>

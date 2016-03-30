@@ -221,7 +221,7 @@ html {
   .col-6:last-child {
     margin-right: 0; }
 
-@media (max-width: 480px) {
+@media (max-width: 641px) {
   div[class^="col-"] {
     float: none;
     float: left;

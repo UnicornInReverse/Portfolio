@@ -17,7 +17,7 @@
   @include span-columns(6);
 }
 
-@media (max-width:480px) {
+@media (max-width:641px) {
   div[class^="col-"] {
     float: none;
     @include span-columns(12);
