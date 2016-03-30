@@ -1,7 +1,7 @@
 /* smartphones, iPhone, portrait 480x320 phones */
 @media (max-width:480px) {
   header {
-    background: url("../img/bg-header-mobile.jpg") no-repeat repeat center bottom;
+    background: url("../img/bg-header-tablet-mobile.jpg") no-repeat repeat center bottom;
     nav {
       padding: 0 10px;
       .logo {
@@ -14,20 +14,14 @@
     }
     .slogan {
       font-size: 20px;
-      h1 {
-        margin-top: 60%;
-      }
     }
   }
 
 
 }
-@media (min-width:481px) { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
-@media (min-width:641px) { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
-@media (min-width:961px) { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
 @media (max-width:1025px) {
   header {
-    background: url("../img/bg-header-tablet.jpg") no-repeat repeat center bottom;
+    background: url("../img/bg-header.jpg") no-repeat repeat center bottom;
     .logo {
       @include span-columns(5);
     }
@@ -44,6 +38,7 @@
       img {
         min-width: 100%;
         min-height: 100%;
+        max-height: 220px;
       }
       .moreInfo {
         display: block;
@@ -57,6 +52,9 @@
         }
       }
     }
+  }
+  .container {
+    padding: 0 20px;
   }
 }
 @media (min-width:1281px) { /* hi-res laptops and desktops */ }

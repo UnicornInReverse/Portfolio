@@ -1,7 +1,6 @@
 $(function() {
     scrollDown();
     changeNavWhileScrolling();
-    portfolio();
     addScrollClass();
     parallax();
     modals();
@@ -37,14 +36,6 @@ var addScrollClass = function() {
     } else {
         $("nav").removeClass('scroll');
     }
-}
-
-// Add OwlCarousel plugin to portfolio section
-var portfolio = function() {
-    $("#owl-portfolio").owlCarousel({
-        items: 1,
-        singleItem: true
-    });
 }
 
 // Parallax scrolling (Plugin: Refill)
@@ -118,7 +109,9 @@ var useEscInModals = function() {
 
 // Carousel what I work with
 var worksWith = function() {
-    $(".owl-carousel").owlCarousel();
+    $(".owl-carousel").owlCarousel({
+        autoplay: true
+    });
 }
 
 // Show/Hide more about me

@@ -51,13 +51,13 @@
                 <!-- / Navigation bar -->
             </div>
         </nav>
+
         <!-- Slogan -->
-        <div class="container">
-            <div class="slogan">
-                <h1>"Well begun is half done"</h1>
-            </div>
+        <div class="slogan">
+            <h1>"Well begun is half done"</h1>
         </div>
         <!-- / Slogan -->
+
         <!-- Scroll to next section -->
         <a href="#about" class="nextSection easeScroll">
             <i class="fa fa-angle-down"></i>
