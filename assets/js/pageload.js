@@ -1,12 +1,12 @@
 $(function() {
-    scrollDown();
-    changeNavWhileScrolling();
-    addScrollClass();
-    parallax();
-    modals();
-    useEscInModals();
-    worksWith();
-    showMoreAboutMe();
+    scrollDown(); // scroll down to certain element on page
+    changeNavWhileScrolling(); // Change the nav while scrolling
+    addScrollClass();  // Add 'scroll' class to navigation when scrolling
+    parallax(); // Parallax scrolling -> Refill plugin
+    modals(); // Modals -> Refill plugin
+    useEscInModals(); // Use Esc when modal is active
+    worksWith(); // Owl-carousel with the work I work with
+    showMoreAboutMe(); // Show more about me
 });
 
 // Scroll down to certain element on page
