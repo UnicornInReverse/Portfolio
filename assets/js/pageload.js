@@ -110,7 +110,7 @@ var useEscInModals = function() {
 // Carousel what I work with
 var worksWith = function() {
     $(".owl-carousel").owlCarousel({
-        autoplay: true
+        autoPlay: true
     });
 }
 

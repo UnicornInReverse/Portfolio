@@ -1,7 +1,7 @@
 /* smartphones, iPhone, portrait 480x320 phones */
 @media (max-width:480px) {
   header {
-    background: url("../img/bg-header-tablet-mobile.jpg") no-repeat repeat center bottom;
+    background: url("../img/bg-header-tablet-mobile.jpg") no-repeat center bottom;
     nav {
       padding: 0 10px;
       .logo {
@@ -21,7 +21,9 @@
 }
 @media (max-width:1025px) {
   header {
-    background: url("../img/bg-header.jpg") no-repeat repeat center bottom;
+    background: url("../img/bg-header.jpg") no-repeat center bottom;
+    height: 100%;
+    overflow: hidden;
     .logo {
       @include span-columns(5);
     }

@@ -464,6 +464,7 @@ footer {
   width: 100%; }
 
 .parallax-static-content {
+  background: rgba(0, 0, 0, 0.2);
   color: #9A9A8A;
   padding: 8em 0;
   position: relative;
@@ -472,7 +473,6 @@ footer {
 .parallax-background {
   background: url("../img/parallax.jpg") repeat;
   background-position: top;
-  background-size: cover;
   background-color: beige;
   height: 120em;
   left: 0;
@@ -607,7 +607,7 @@ footer {
 /* smartphones, iPhone, portrait 480x320 phones */
 @media (max-width: 480px) {
   header {
-    background: url("../img/bg-header-tablet-mobile.jpg") no-repeat repeat center bottom; }
+    background: url("../img/bg-header-tablet-mobile.jpg") no-repeat center bottom; }
     header nav {
       padding: 0 10px; }
       header nav .logo {
@@ -619,7 +619,9 @@ footer {
       font-size: 20px; } }
 @media (max-width: 1025px) {
   header {
-    background: url("../img/bg-header.jpg") no-repeat repeat center bottom; }
+    background: url("../img/bg-header.jpg") no-repeat center bottom;
+    height: 100%;
+    overflow: hidden; }
     header .logo {
       float: left;
       display: block;
