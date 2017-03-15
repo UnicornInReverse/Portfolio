@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="assets/plugins/owl-carousel/owl.carousel.css">
     <link rel="stylesheet" href="assets/plugins/owl-carousel/owl.theme.css">
     <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.min.css">
+    <link rel="shortcut icon" type="image/png" href="assets/img/favicon.png"/>
 </head>
 <body>
     <!-- Header -->
