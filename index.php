@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Rick van der Burg - portfolio</title>
+    <title>Maaike Koolmees - portfolio</title>
 
     <!-- styles -->
     <link rel="stylesheet" href="assets/css/template.css">
@@ -19,7 +19,7 @@
                 <!-- Logo -->
                 <div class="logo">
                     <a href="#">
-                        <h2>Rick van der Burg</h2>
+                        <h2>Maaike Koolmees</h2>
                     </a>
                 </div>
                 <!-- / Logo -->
@@ -34,15 +34,15 @@
                             <a href="#about">Over mij</a>
                         </li>
                         <li role="menuitem">
-                            <a href="#portfolio">Portfolio</a>
+                            <a href="#portfolio">Projecten</a>
                         </li>
                         <li role="menuitem">
-                            <a href="http://github.com/itsrd" class="icon" target="_blank">
+                            <a href="http://github.com/UnicornInReverse" class="icon" target="_blank">
                                 <i class="fa fa-github"></i>
                             </a>
                         </li>
                         <li role="menuitem">
-                            <a href="https://nl.linkedin.com/in/rickvdburg" class="icon" target="_blank">
+                            <a href="https://nl.linkedin.com/in/maaike-koolmees-1864b313a/" class="icon" target="_blank">
                                 <i class="fa fa-linkedin"></i>
                             </a>
                         </li>
@@ -54,7 +54,7 @@
 
         <!-- Slogan -->
         <div class="slogan">
-            <h1>"Well begun is half done"</h1>
+            <h1>Creative Technology</h1>
         </div>
         <!-- / Slogan -->
 
@@ -75,7 +75,7 @@
             <div class="content">
                 <!-- Information about me -->
                 <div class="text-center text-block">
-                    Mijn naam is Rick van der Burg en ik studeer momenteel MediaTechnologie op Hogeschool Rotterdam. Naast studeren heb ik momenteel mijn eigen bedrijfje opgezet met als doel zoveel mogelijk te leren naast mijn schoolwerkzaamheden.  Voordat ik aan deze studie ben begonnen heb ik de studie MediaTechnologie gedaan op het Grafisch Lyceum Rotterdam, hierdoor heb ik veel ervaring op kunnen doen met verschillende programmeertalen.
+
                     <p>
                         <a href="#" id="showMore" class="btn">Meer over mij</a>
                     </p>
@@ -86,7 +86,7 @@
                 <div class="moreAboutMe">
                     <div class="col-6">
                         <!-- Who I'm -->
-                        <h3 class="title">Rick van der Burg</h3>
+                        <h3 class="title">Maaike Koolmees</h3>
                         <p class="text-block text-center">
                             Momenteel ben ik al 11 jaar bezig met het ontwikkelen van websites en nog steeds is het mijn dagelijkse bezigheid. Ik leer graag nieuwe programmeertalen en in de toekomst wil ik me meer gaan verdiepen in mobiele applicaties en beter worden in Laravel/PHP om zo nog betere websites te maken.
                         </p>
@@ -189,7 +189,7 @@
             <!-- Logo -->
             <div class="logo center">
                 <a href="#">
-                    <h2>Rick van der Burg</h2>
+                    <h2>Maaike Koolmees</h2>
                 </a>
             </div>
             <!-- / Logo -->
@@ -202,17 +202,17 @@
             <div class="social-icons">
                 <ul>
                     <li>
-                        <a href="http://github.com/itsrd" target="_blank">
+                        <a href="http://github.com/UnicornInReverse" target="_blank">
                             <i class="fa fa-github"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="mailto: rickvdburg@live.nl">
+                        <a href="mailto: maaikekoolmees@live.nl">
                             <i class="fa fa-envelope-o"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://linkedin.com/in/rickvdburg" target="_blank">
+                        <a href="https://linkedin.com/in/maaike-koolmees-1864b313a/" target="_blank">
                             <i class="fa fa-linkedin"></i>
                         </a>
                     </li>

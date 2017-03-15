@@ -669,21 +669,5 @@ footer {
     padding: 0 20px; } }
 @media (min-width: 1281px) {
   /* hi-res laptops and desktops */ }
-html, body {
-  background: #f0f0f0;
-  padding: 0;
-  margin: 0;
-  height: 100%;
-  font-family: "Montserrat", sans-serif;
-  font-weight: 400; }
 
-#about .content {
-  letter-spacing: 2px; }
-
-.moreAboutMe {
-  display: none; }
-
-.owl-item > div {
-  text-align: center; }
-
-/*# sourceMappingURL=template.css.map */
+/*# sourceMappingURL=base.css.map */
