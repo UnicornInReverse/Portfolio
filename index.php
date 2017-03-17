@@ -76,6 +76,10 @@
             <div class="content">
                 <!-- Information about me -->
                 <div class="text-center text-block">
+                    Mijn naam is Maaike Koolmees en op dit moment studeer ik Creative Media and Game Techologies aan de
+                    Hogeschool Rotterdam. Tijdens mijn studie doe ik veel verschillende projecten, variërend van
+                    serious games tot aan het redden van de bij. Hieronder is een selectie te vinden van de projecten
+                    die ik gedaan heb.
 
                     <p>
                         <a href="#" id="showMore" class="btn">Meer over mij</a>
@@ -87,19 +91,23 @@
                 <div class="moreAboutMe">
                     <div class="col-6">
                         <!-- Who I'm -->
-                        <h3 class="title">Maaike Koolmees</h3>
+                        <h3 class="title">Blog</h3>
                         <p class="text-block text-center">
-                            Momenteel ben ik al 11 jaar bezig met het ontwikkelen van websites en nog steeds is het mijn dagelijkse bezigheid. Ik leer graag nieuwe programmeertalen en in de toekomst wil ik me meer gaan verdiepen in mobiele applicaties en beter worden in Laravel/PHP om zo nog betere websites te maken.
+                            In het eerste jaar van mijn studie heb ik heb blog bijgehouden over alle dingen wat ik toen
+                            gedaan heb. Deze blog is <a href="https://stud.hosted.hr.nl/0911174/" target="_blank">hier</a>
+                            te vinden.
                         </p>
                         <!-- / Who I'm -->
                     </div>
                     <div class="col-6">
-                        <!-- About Pixcero -->
-                        <h3 class="title">Pixcero</h3>
+                        <!-- About Github -->
+                        <h3 class="title">Github</h3>
                         <p class="text-block text-center">
-                            Pixcero is mijn eigen bedrijf die ik ben gestart op 1 januari 2015. Sindsdien heb ik een hoop geleerd en hoop ik nog steeds elke dag bij te kunnen leren. Momenteel werk ik samen met 3 andere ZZP'ers om op deze manier mooie websites neer te zetten en te leren van elkaar.
+                            Naast mijn blog zijn sommige projecten ook op mijn <a href="https://github.com/UnicornInReverse" target="_blank">Github</a>
+                            te vinden. Het TicTacToe project dat er op staat is <a href="http://unicorninreverse.github.io/" target="_blank">hier</a>
+                            te spelen.
                         </p>
-                        <!-- / About Pixcero -->
+                        <!-- / About Github -->
                     </div>
                 </div>
             </div>
@@ -107,53 +115,53 @@
     </section>
     <!-- / About section -->
 
-    <!-- Portfolio section -->
+    <!-- Project section -->
     <section class="page bg-grey" id="portfolio">
         <div class="container">
             <div class="title underline">
-                <h2>Portfolio</h2>
+                <h2>Projecten</h2>
             </div>
             <div class="content portfolio">
                 <div class="col-4">
-                    <!-- Portfolio item: Schoonheidssalon Mandy -->
+                    <!-- Portfolio item: BeeReady -->
                     <div class="item">
-                        <img src="assets/img/portfolio/schoonheidssalonmandy-small.png" alt="Schoonheidssalon Mandy">
+                        <img src="" alt="BeeReady">
                         <div class="moreInfo">
-                            <label for="schoonheidssalonMandy">
+                            <label for="beeReady">
                                 Meer informatie
                             </label>
                         </div>
                     </div>
-                    <!-- / Portfolio item: Schoonheidssalon Mandy -->
+                    <!-- / Portfolio item: BeeReady -->
                 </div>
                 <div class="col-4">
-                    <!-- Portfolio item: 4Staying -->
+                    <!-- Portfolio item: Shair -->
                     <div class="item">
-                        <img src="assets/img/portfolio/4staying-small.png" alt="4Staying">
+                        <img src="" alt="Shair">
                         <div class="moreInfo">
-                            <label for="4staying">
+                            <label for="shair">
                                 Meer informatie
                             </label>
                         </div>
                     </div>
-                    <!-- / Portfolio item: 4Staying -->
+                    <!-- / Portfolio item: Shair -->
                 </div>
                 <div class="col-4">
-                    <!-- Portfolio item: PlayPlastic -->
+                    <!-- Portfolio item: Feestboek -->
                     <div class="item">
-                        <img src="assets/img/portfolio/playplastic-small.png" alt="PlayPlastic">
+                        <img src="" alt="Feestboek">
                         <div class="moreInfo">
-                            <label for="playplastic">
+                            <label for="feestboek">
                                 Meer informatie
                             </label>
                         </div>
                     </div>
-                    <!-- / Portfolio item: PlayPlastic -->
+                    <!-- / Portfolio item: Feestboek -->
                 </div>
             </div>
         </div>
     </section>
-    <!-- / Portfolio section -->
+    <!-- / Project section -->
 
     <!-- Parallax scrolling window -->
     <div id="js-parallax-window" class="parallax-window">
@@ -171,11 +179,7 @@
                     <div><img src="assets/img/skills/git.png" alt="Git"> </div>
                     <div><img src="assets/img/skills/github.png" alt="github"> </div>
                     <div><img src="assets/img/skills/laravel.png" alt="Laravel"> </div>
-                    <div><img src="assets/img/skills/wordpress.png" alt="Wordpress"> </div>
-                    <div><img src="assets/img/skills/ubuntu.png" alt="Ubuntu"> </div>
                     <div><img src="assets/img/skills/phpstorm.png" alt="PHPStorm"> </div>
-                    <div><img src="assets/img/skills/slack.png" alt="Slack"> </div>
-                    <div><img src="assets/img/skills/asana.png" alt="Asana"> </div>
                     <div><img src="assets/img/skills/koffie.png" alt="Koffie"> </div>
                     <div><img src="assets/img/skills/sass.png" alt="Sass"> </div>
                 </div>
