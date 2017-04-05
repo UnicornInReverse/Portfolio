@@ -125,7 +125,7 @@
                 <div class="col-4">
                     <!-- Portfolio item: BeeReady -->
                     <div class="item">
-                        <img src="" alt="BeeReady">
+                        <img src="assets/img/portfolio/bee-ready.png" alt="BeeReady">
                         <div class="moreInfo">
                             <label for="beeReady">
                                 Meer informatie
@@ -137,7 +137,7 @@
                 <div class="col-4">
                     <!-- Portfolio item: Shair -->
                     <div class="item">
-                        <img src="" alt="Shair">
+                        <img src="assets/img/portfolio/shair.png" alt="Shair">
                         <div class="moreInfo">
                             <label for="shair">
                                 Meer informatie
@@ -149,7 +149,7 @@
                 <div class="col-4">
                     <!-- Portfolio item: Feestboek -->
                     <div class="item">
-                        <img src="" alt="Feestboek">
+                        <img src="assets/img/portfolio/feestboek.png" alt="Feestboek">
                         <div class="moreInfo">
                             <label for="feestboek">
                                 Meer informatie
