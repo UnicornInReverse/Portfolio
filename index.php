@@ -180,6 +180,7 @@
                     <div><img src="assets/img/skills/github.png" alt="github"> </div>
                     <div><img src="assets/img/skills/laravel.png" alt="Laravel"> </div>
                     <div><img src="assets/img/skills/phpstorm.png" alt="PHPStorm"> </div>
+                    <div><img src="assets/img/skills/fablab.png" alt="fablab"> </div>
                     <div><img src="assets/img/skills/koffie.png" alt="Koffie"> </div>
                     <div><img src="assets/img/skills/sass.png" alt="Sass"> </div>
                 </div>
