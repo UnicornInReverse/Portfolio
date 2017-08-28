@@ -19,14 +19,14 @@ var scrollDown = function() {
             scrollTop: ($(element).offset().top - 75)
         }, 1000);
     });
-}
+};
 
 // Add class 'scroll' to navigation when scrolling
 var changeNavWhileScrolling = function() {
     $(window).on('scroll', function() {
         addScrollClass();
     });
-}
+};
 
 // Add .scroll to the navigation bar when scrolling
 var addScrollClass = function() {
@@ -36,7 +36,7 @@ var addScrollClass = function() {
     } else {
         $("nav").removeClass('scroll');
     }
-}
+};
 
 // Parallax scrolling (Plugin: Refill)
 var parallax = function() {
@@ -70,7 +70,7 @@ var parallax = function() {
             plxBackground.css('top', - (plxWindowTopToWindowTop * plxSpeed) + 'px');
         }
     }
-}
+};
 
 // Portfolio modals (Plugin: Refill)
 var modals = function() {
@@ -91,12 +91,12 @@ var modals = function() {
             e.stopPropagation();
         });
     });
-}
+};
 
 // Close modals
 var closeModals = function() {
     $(".modal-state:checked").prop("checked", false).change();
-}
+};
 
 // When ESC key is pressed, close Modals
 var useEscInModals = function() {
@@ -105,14 +105,14 @@ var useEscInModals = function() {
             closeModals();
         }
     });
-}
+};
 
 // Carousel what I work with
 var worksWith = function() {
     $(".owl-carousel").owlCarousel({
         autoPlay: true
     });
-}
+};
 
 // Show/Hide more about me
 var showMoreAboutMe = function() {
@@ -120,4 +120,4 @@ var showMoreAboutMe = function() {
         e.preventDefault();
          $(".moreAboutMe").slideToggle();
     });
-}
+};
