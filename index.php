@@ -79,7 +79,7 @@
                     Mijn naam is Maaike Koolmees en op dit moment studeer ik Creative Media and Game Techologies aan de
                     Hogeschool Rotterdam. Tijdens mijn studie doe ik veel verschillende projecten, variërend van
                     serious games tot aan het redden van de bij. Hieronder is een selectie te vinden van de projecten
-                    die ik gedaan heb.
+                    die ik gedaan heb: 
 
                     <p>
                         <a href="#" id="showMore" class="btn">Meer over mij</a>
