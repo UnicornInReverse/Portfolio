@@ -240,12 +240,14 @@ $error_handler->registerShutdownFunction();
     <!-- / Contact section -->
 
     <!-- Include portfolio-->
-    <?php require_once 'partials/modalls.php'; ?>
+    <?php require_once 'partials/modals.php'; ?>
+<!--    --><?php //require_once 'partials/modaals.php'; ?>
     <!-- / Include portfolio-->
 
     <!-- Scripts -->
     <script src="assets/plugins/jquery/jquery.min.js"></script>
     <script src="assets/plugins/owl-carousel/owl.carousel.min.js"></script>
+    <script src="https://cdn.ravenjs.com/3.18.1/raven.min.js" crossorigin="anonymous"></script>
     <script src="assets/js/pageload.js"></script>
 </body>
 </html>

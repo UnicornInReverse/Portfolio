@@ -1,3 +1,5 @@
+Raven.config('https://97a2c4614d14476fb46a1e40788c29f4@sentry.io/224812').install();
+
 $(function() {
     scrollDown(); // scroll down to certain element on page
     changeNavWhileScrolling(); // Change the nav while scrolling
@@ -101,7 +103,7 @@ var closeModals = function() {
 // When ESC key is pressed, close Modals
 var useEscInModals = function() {
     $(document).keyup(function(e) {
-        if (e.keyCode == 27) {
+        if (e.keyCode === 27) {
             closeModals();
         }
     });
@@ -120,4 +122,5 @@ var showMoreAboutMe = function() {
         e.preventDefault();
          $(".moreAboutMe").slideToggle();
     });
+    console.log(hoi);
 };
