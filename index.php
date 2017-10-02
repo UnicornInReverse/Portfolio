@@ -240,7 +240,7 @@ $error_handler->registerShutdownFunction();
     <!-- / Contact section -->
 
     <!-- Include portfolio-->
-    <?php require_once 'partials/modaals.php'; ?>
+    <?php require_once 'partials/modalls.php'; ?>
     <!-- / Include portfolio-->
 
     <!-- Scripts -->
