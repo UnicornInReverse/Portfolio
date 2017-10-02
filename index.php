@@ -239,8 +239,8 @@ $error_handler->registerShutdownFunction();
     </footer>
     <!-- / Contact section -->
 
-    <!-- Include portfolio-->
-    <?php require_once 'partials/modals.php'; ?>
+    <!-- Include portfolio-->   
+    <?php require_once 'partials/modaals.php'; ?>
     <!-- / Include portfolio-->
 
     <!-- Scripts -->
