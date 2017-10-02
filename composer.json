@@ -1,5 +1,8 @@
 {
     "require-dev": {
         "phpro/grumphp": "^0.11.6"
+    },
+    "require": {
+        "sentry/sentry": "^1.7"
     }
 }

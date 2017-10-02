@@ -173,6 +173,13 @@ class ComposerStaticInitd12fc023c7a65c0d2eaf84926d4d2c84
     );
 
     public static $prefixesPsr0 = array (
+        'R' => 
+        array (
+            'Raven_' => 
+            array (
+                0 => __DIR__ . '/..' . '/sentry/sentry/lib',
+            ),
+        ),
         'P' => 
         array (
             'ProxyManager\\' => 
