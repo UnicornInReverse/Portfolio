@@ -86,7 +86,7 @@ $error_handler->registerShutdownFunction();
             <div class="content">
                 <!-- Information about me -->
                 <div class="text-center text-block">
-                    Mijn naam is Maaike Koolmees en op dit moment studeer ik Creative Media and Game Techologies aan de
+                    Mijn naam is Maaike Koolmees en op dit moment ben ik aan het testen en studeer ik Creative Media and Game Techologies aan de
                     Hogeschool Rotterdam. Tijdens mijn studie doe ik veel verschillende projecten, variërend van
                     serious games tot aan het redden van de bij. Hieronder is een selectie te vinden van de projecten
                     die ik gedaan heb:
@@ -239,7 +239,7 @@ $error_handler->registerShutdownFunction();
     </footer>
     <!-- / Contact section -->
 
-    <!-- Include portfolio-->   
+    <!-- Include portfolio-->
     <?php require_once 'partials/modaals.php'; ?>
     <!-- / Include portfolio-->
 
