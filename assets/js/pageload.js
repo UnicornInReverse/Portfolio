@@ -1,5 +1,3 @@
-Raven.config('https://97a2c4614d14476fb46a1e40788c29f4@sentry.io/224812').install();
-
 $(function() {
     scrollDown(); // scroll down to certain element on page
     changeNavWhileScrolling(); // Change the nav while scrolling
@@ -21,6 +19,7 @@ var scrollDown = function() {
             scrollTop: ($(element).offset().top - 75)
         }, 1000);
     });
+    console.log(hoi);
 };
 
 // Add class 'scroll' to navigation when scrolling
@@ -122,5 +121,4 @@ var showMoreAboutMe = function() {
         e.preventDefault();
          $(".moreAboutMe").slideToggle();
     });
-    console.log(hoi);
 };
