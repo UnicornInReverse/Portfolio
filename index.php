@@ -1,7 +1,3 @@
-<?php
-//require_once 'sentry.php';
-?>
-
 <!doctype html>
 <html lang="en">
 <head>
