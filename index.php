@@ -1,5 +1,5 @@
 <?php
-require_once 'sentry.php';
+//require_once 'sentry.php';
 ?>
 
 <!doctype html>

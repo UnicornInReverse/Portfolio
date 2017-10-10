@@ -19,7 +19,6 @@ var scrollDown = function() {
             scrollTop: ($(element).offset().top - 75)
         }, 1000);
     });
-    console.log(hoi);
 };
 
 // Add class 'scroll' to navigation when scrolling
@@ -31,6 +30,8 @@ var changeNavWhileScrolling = function() {
 
 // Add .scroll to the navigation bar when scrolling
 var addScrollClass = function() {
+    console.log(test);
+
     var scrollHeight = $(this).scrollTop();
     if(scrollHeight > 10) {
         $("nav").addClass('scroll');
